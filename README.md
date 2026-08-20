@@ -33,7 +33,9 @@
 
 本仓库可能包含对教材内容、试题、图片、插图及其他第三方材料的引用。相关材料的著作权仍归原作者或原权利人所有；除非另有明确说明，这些材料不包含在本仓库的 CC BY-NC-SA 4.0 许可范围内。
 
-本仓库为个人教学资料存档，不代表西交利物浦大学的官方立场或最新课程安排。
+### 联系方式
+
+如果你发现课件中存在错误，或者希望就这些教学材料进行交流，可以在[我的个人主页](https://bguanmath.github.io/)找到我的电子邮箱地址。请注意，本仓库是个人教学资料存档，不代表西交利物浦大学的官方立场或最新课程安排。关于当前课程安排、作业和考试的问题，请联系当学年的任课教师，并以学校发布的最新信息为准。
 
 ---
 
@@ -68,4 +70,6 @@ For the complete licensing information, see [LICENSE.md](./LICENSE.md).
 
 This repository may contain references to textbook content, examination questions, images, illustrations, and other third-party materials. The copyright in such materials remains with their respective authors or rights holders. Unless explicitly stated otherwise, third-party materials are not covered by this repository’s CC BY-NC-SA 4.0 license.
 
-This repository is a personal archive of teaching materials. It does not represent the official position of Xi’an Jiaotong-Liverpool University or the latest version of its curriculum.
+### Contact
+
+If you find an error in the materials or would like to discuss their content, you are welcome to contact me by Email, which can be found in [my personal website](https://bguanmath.github.io/). Please note that this repository is a personal archive of teaching materials. It does not represent the official position of Xi’an Jiaotong-Liverpool University or the latest version of its curriculum. Questions about the current course schedule, assignments, or examinations should be directed to the lecturers teaching the module in the relevant academic year.
