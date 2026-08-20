@@ -1,4 +1,4 @@
-# MTH013 Calculus I Course Materials
+# MTH013 Calculus Course Materials
 
 [中文说明](#中文说明) | [English](#english)
 
